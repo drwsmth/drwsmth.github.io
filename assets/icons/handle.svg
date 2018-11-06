@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Basic/Essentials/Handle@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32"></rect>
+    </defs>
+    <g id="Basic/Essentials/Handle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <polyline id="Path" stroke="#161616" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="22.5 8 30.5 16 22.5 24"></polyline>
+            <polyline id="Path" stroke="#161616" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" transform="translate(5.500000, 16.000000) scale(-1, 1) translate(-5.500000, -16.000000) " points="1.5 8 9.5 16 1.5 24"></polyline>
+        </g>
+    </g>
+</svg>
