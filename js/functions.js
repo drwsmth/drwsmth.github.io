@@ -51,6 +51,7 @@ Barba.Dispatcher.on("newPageReady", function(e) {
 	} else {
 		createjs.Sound.muted = false;
 		$('button.sound_settings img').attr("src", 'assets/icons/volume.svg');
+		
 	}
 
 
