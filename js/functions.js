@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		localStorage.setItem("currentSoundClass", 'nav_button--context sound_settings');
 	} else {
 		var muteStatus = $('button.sound_settings').attr('class');
-		localStorage.setItem("currentSoundClass", muteStatus);aaddd
+		localStorage.setItem("currentSoundClass", muteStatus);
 	}
 });
 
@@ -51,7 +51,7 @@ Barba.Dispatcher.on("newPageReady", function(e) {
 	} else {
 		createjs.Sound.muted = false;
 		$('button.sound_settings img').attr("src", 'assets/icons/volume.svg');
-		
+
 	}
 
 
