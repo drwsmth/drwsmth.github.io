@@ -47,10 +47,10 @@ Barba.Dispatcher.on("newPageReady", function(e) {
 	$('button.sound_settings').addClass(localStorage.getItem("currentSoundClass"));
 	if ($('button.sound_settings').hasClass('muted')) {
 		createjs.Sound.muted = true;
-		$('button.sound_settings img').attr("src", 'assets/icons/VolumeMute.svg');
+		$('button.sound_settings img').attr("src", 'assets/icons/volumeMute.svg');
 	} else {
 		createjs.Sound.muted = false;
-		$('button.sound_settings img').attr("src", 'assets/icons/Volume.svg');
+		$('button.sound_settings img').attr("src", 'assets/icons/volume.svg');
 	}
 
 
