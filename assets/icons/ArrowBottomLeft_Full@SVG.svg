@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Round/Arrows/ArrowBottomLeft_Full@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32"></rect>
+    </defs>
+    <g id="Round/Arrows/ArrowBottomLeft_Full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <path d="M13.1213203,17.5 L22.5,17.5 C23.3284271,17.5 24,16.8284271 24,16 C24,15.1715729 23.3284271,14.5 22.5,14.5 L13.1213203,14.5 L17.0606602,10.5606602 C17.6464466,9.97487373 17.6464466,9.02512627 17.0606602,8.43933983 C16.4748737,7.85355339 15.5251263,7.85355339 14.9393398,8.43933983 L8.43933983,14.9393398 C7.85355339,15.5251263 7.85355339,16.4748737 8.43933983,17.0606602 L14.9393398,23.5606602 C15.5251263,24.1464466 16.4748737,24.1464466 17.0606602,23.5606602 C17.6464466,22.9748737 17.6464466,22.0251263 17.0606602,21.4393398 L13.1213203,17.5 Z M5.39339828,26.6066017 C-0.464466094,20.7487373 -0.464466094,11.2512627 5.39339828,5.39339828 C11.2512627,-0.464466094 20.7487373,-0.464466094 26.6066017,5.39339828 C32.4644661,11.2512627 32.4644661,20.7487373 26.6066017,26.6066017 C20.7487373,32.4644661 11.2512627,32.4644661 5.39339828,26.6066017 Z" id="Combined-Shape" fill="#000000" mask="url(#mask-2)" transform="translate(16.000000, 16.000000) scale(-1, 1) rotate(-45.000000) translate(-16.000000, -16.000000) "></path>
+        </g>
+    </g>
+</svg>

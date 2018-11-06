@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Basic/Essentials/Plus@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32"></rect>
+    </defs>
+    <g id="Basic/Essentials/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <path d="M17.5,14.5 L29.5,14.5 C30.3284271,14.5 31,15.1715729 31,16 C31,16.8284271 30.3284271,17.5 29.5,17.5 L17.5,17.5 L17.5,29.5 C17.5,30.3284271 16.8284271,31 16,31 C15.1715729,31 14.5,30.3284271 14.5,29.5 L14.5,17.5 L2.5,17.5 C1.67157288,17.5 1,16.8284271 1,16 C1,15.1715729 1.67157288,14.5 2.5,14.5 L14.5,14.5 L14.5,2.5 C14.5,1.67157288 15.1715729,1 16,1 C16.8284271,1 17.5,1.67157288 17.5,2.5 L17.5,14.5 Z" id="Combined-Shape" fill="#000000" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
