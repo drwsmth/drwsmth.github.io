@@ -69,281 +69,281 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/icons\/ArrowBottomLeft_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowBottomLeft_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowBottomLeft_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowBottomLeft_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowBottomRight_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowBottomRight_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowBottomRight_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowBottomRight_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowDown_Chevron@SVG.svg": {
+	"\/assets\/icons\/ArrowDown_Chevron.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowDown_Chevron@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowDown_Chevron.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowDown_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowDown_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowDown_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowDown_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowLeft_Chevron@SVG.svg": {
+	"\/assets\/icons\/ArrowLeft_Chevron.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowLeft_Chevron@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowLeft_Chevron.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowLeft_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowLeft_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowLeft_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowLeft_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowRight_Chevron@SVG.svg": {
+	"\/assets\/icons\/ArrowRight_Chevron.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowRight_Chevron@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowRight_Chevron.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowRight_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowRight_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowRight_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowRight_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowTopLeft_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowTopLeft_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowTopLeft_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowTopLeft_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowTopRight_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowTopRight_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowTopRight_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowTopRight_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowUp_Chevron@SVG.svg": {
+	"\/assets\/icons\/ArrowUp_Chevron.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowUp_Chevron@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowUp_Chevron.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/ArrowUp_Full@SVG.svg": {
+	"\/assets\/icons\/ArrowUp_Full.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/ArrowUp_Full@SVG.svg",
+		"oAP": "\/assets\/icons\/ArrowUp_Full.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Cross@SVG.svg": {
+	"\/assets\/icons\/Cross.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Cross@SVG.svg",
+		"oAP": "\/assets\/icons\/Cross.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/CrossRed@SVG.svg": {
+	"\/assets\/icons\/CrossRed.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/CrossRed@SVG.svg",
+		"oAP": "\/assets\/icons\/CrossRed.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/DocumentDark_Blank@SVG.svg": {
+	"\/assets\/icons\/DocumentDark_Blank.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/DocumentDark_Blank@SVG.svg",
+		"oAP": "\/assets\/icons\/DocumentDark_Blank.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/DocumentDark_Download@SVG.svg": {
+	"\/assets\/icons\/DocumentDark_Download.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/DocumentDark_Download@SVG.svg",
+		"oAP": "\/assets\/icons\/DocumentDark_Download.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/DocumentLight_Blank@SVG.svg": {
+	"\/assets\/icons\/DocumentLight_Blank.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/DocumentLight_Blank@SVG.svg",
+		"oAP": "\/assets\/icons\/DocumentLight_Blank.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/DocumentLight_Download@SVG.svg": {
+	"\/assets\/icons\/DocumentLight_Download.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/DocumentLight_Download@SVG.svg",
+		"oAP": "\/assets\/icons\/DocumentLight_Download.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Handle@SVG.svg": {
+	"\/assets\/icons\/Handle.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Handle@SVG.svg",
+		"oAP": "\/assets\/icons\/Handle.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Help@SVG.svg": {
+	"\/assets\/icons\/Help.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Help@SVG.svg",
+		"oAP": "\/assets\/icons\/Help.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Home@SVG.svg": {
+	"\/assets\/icons\/Home.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Home@SVG.svg",
+		"oAP": "\/assets\/icons\/Home.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Large@SVG.svg": {
+	"\/assets\/icons\/Large.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Large@SVG.svg",
+		"oAP": "\/assets\/icons\/Large.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Plus@SVG.svg": {
+	"\/assets\/icons\/Plus.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Plus@SVG.svg",
+		"oAP": "\/assets\/icons\/Plus.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Settings@SVG.svg": {
+	"\/assets\/icons\/Settings.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Settings@SVG.svg",
+		"oAP": "\/assets\/icons\/Settings.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Shuffle@SVG.svg": {
+	"\/assets\/icons\/Shuffle.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Shuffle@SVG.svg",
+		"oAP": "\/assets\/icons\/Shuffle.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Small@SVG.svg": {
+	"\/assets\/icons\/Small.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Small@SVG.svg",
+		"oAP": "\/assets\/icons\/Small.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/Volume@SVG.svg": {
+	"\/assets\/icons\/Volume.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/Volume@SVG.svg",
+		"oAP": "\/assets\/icons\/Volume.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/icons\/VolumeMute@SVG.svg": {
+	"\/assets\/icons\/VolumeMute.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/icons\/VolumeMute@SVG.svg",
+		"oAP": "\/assets\/icons\/VolumeMute.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
