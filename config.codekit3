@@ -779,13 +779,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/Index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Index.html",
-		"oF": 0
-		},
 	"\/js\/anime.min-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -915,41 +908,6 @@
 		"oAP": "\/normalize-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/page1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/page1.html",
-		"oF": 0
-		},
-	"\/page2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/page2.html",
-		"oF": 0
-		},
-	"\/page3.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/page3.html",
-		"oF": 0
-		},
-	"\/page4.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/page4.html",
-		"oF": 0
-		},
-	"\/page5.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/page5.html",
-		"oF": 0
 		},
 	"\/sftp-config.json": {
 		"ft": 524288,
