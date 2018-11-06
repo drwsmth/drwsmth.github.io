@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="normalize.css">
+	<link rel="stylesheet" href="stylebasis.css">
+	<link rel="stylesheet" href="css/magnify.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script src="js/barba.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/soundjs.min.js"></script>
+	<script type="text/javascript" src="js/functions.js"></script>
+	<script type="text/javascript" src="js/anime.min.js"></script>
+	<script type="text/javascript" src="js/jquery.magnify.js"></script>
+</head>
+<div id="barba-wrapper">
+	<div class="barba-container">
+		<header class="header_top">
+			<nav class="nav_top">
+				<a href="index.html"><button class="nav_button--context nav_button--featured" data-button-type="home" ontouchstart=""><img src='assets/icons/home.svg'></button></a>
+				<button class="nav_button--standard quiz_open" data-button-type="quiz" ontouchstart=""><span>Quiz</span></button>
+				<div class="nav_segmented" data-button-type="navigation">
+					<a class="nav_link--back"><button class="nav_segmented_item"><span>Back</span></button></a>
+					<a class="nav_link--forward"><button class="nav_segmented_item"><span>Forward</span></button></a>
+				</div>
+				<button class="nav_button--context sound_settings" data-button-type="sound" ontouchstart=""><img src='assets/icons/volume.svg'><span>Sound</span></button>
+			</nav>
+		</header>
+
+		<body onload="loadSound();">
+			<main class="main_content">
+				<div class="overlay"></div>
+				<section class="quiz_module">
+					<h2>Quiz<button class="nav_button nav_button--context quiz_close" ontouchstart=""><img src='assets/icons/crossRed.svg'><span>Clear</span></button></h2>
+					<article class="question" id="question_1">
+						<p><strong>Question 1.</strong>Light is a form of...?</p>
+						<label>
+							<input type="radio" name="question_1_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Energy
+						</label>
+						<label>
+							<input type="radio" name="question_1_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Force
+						</label>
+						<label>
+							<input type="radio" name="question_1_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Colour
+						</label>
+					</article>
+					<article class="question" id="question_2">
+						<p><strong>Question 2.</strong>The colour of light is dependent on the light's...</p>
+						<label>
+							<input type="radio" name="question_2_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Strength
+						</label>
+						<label>
+							<input type="radio" name="question_2_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Diameter
+						</label>
+						<label>
+							<input type="radio" name="question_2_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Wavelength
+						</label>
+					</article>
+					<article class="question" id="question_3">
+						<p><strong>Question 2.</strong>If you were painting, what form of color mixing would you be using?</p>
+						<label>
+							<input type="radio" name="question_3_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Subtractive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_3_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Additive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_3_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Attractive Colour Mixing
+						</label>
+					</article>
+					<article class="question" id="question_4">
+						<p><strong>Question 2.</strong>If you were mixing colours on a screen, this would be an example of...?</p>
+						<label>
+							<input type="radio" name="question_4_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Aggressive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_4_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Additive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_4_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Supportive Color Mixing
+						</label>
+					</article>
+					<div class="feedback_container"></div>
+					<button class="nav_button nav_button--standard nav_button--validate" ontouchstart=""><span>Submit</span></button>
+				</section>
+				<section class="page">
+					<h1>How Does Color Work?</h1>
+					<div class="article_content">
+						<article>
+							<h2>Our Eyes</h2>
+							<p>Roses are red and violets are blue, but we only know that thanks to specialized cells in our eyes called cones.
+								When light hits an object - say, a banana - the object absorbs some of the light and reflects the rest of it. Which wavelengths are reflected or absorbed depends on the properties of the object.
+								For a ripe banana, wavelengths of about 570 to 580 nanometers bounce back. These are the wavelengths of yellow light.
+								When you look at a banana, the wavelengths of reflected light determine what color you see. The light waves reflect off the banana's peel and hit the light-sensitive retina at the back of your eye. That's where cones come in.</p>
+							<div class="excerpt">
+								<img src="assets/images/color2.jpg">
+								<p><strong>Cones are one type of photoreceptor, the tiny cells in the retina that respond to light. Most of us have 6 to 7 million cones, and almost all of them are concentrated on a 0.3 millimeter spot on the retina called the fovea centralis.</strong></p>
+							</div>
+						</article>
+						<article>
+							<p>Not all of these cones are alike. About 64 percent of them respond most strongly to red light, while about a third are set off the most by green light. Another 2 percent respond strongest to blue light.
+								When light from the banana hits the cones, it stimulates them to varying degrees. The resulting signal is zapped along the optic nerve to the visual cortex of the brain, which processes the information and returns with a color: yellow.
+								Humans, with our three cone types, are better at discerning color than most mammals, but plenty of animals beat us out in the color vision department. Many birds and fish have four types of cones, enabling them to see ultraviolet light, or light with wavelengths shorter than what the human eye can perceive.
+								Some insects can also see in ultraviolet, which may help them see patterns on flowers that are completely invisible to us. To a bumblebee, those roses may not be so red after all. </p>
+						</article>
+					</div>
+					<aside>
+						<h2>Did you know?</h2>
+						<img src="assets/images/color.jpg">
+						<p>Have you ever wondered why your peripheral vision is less sharp and colorful than your front-on vision? It's because of the rods and cones. Rods are most highly concentrated around the edge of the retina.There are over 120 million of them in each eye. Rods transmit mostly black and white information to the brain. As rods are more sensitive to dim light than cones, you lose most color vision in dusky light and your peripheral vision is less colorful. It is the rods that help your eyes adjust when you enter a darkened room.
+						</p>
+					</aside>
+				</section>
+			</main>
+		</body>
+	</div>
+</div>
+
+</html>

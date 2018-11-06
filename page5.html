@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="normalize.css">
+	<link rel="stylesheet" href="stylebasis.css">
+	<link rel="stylesheet" href="css/magnify.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script src="js/barba.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/soundjs.min.js"></script>
+	<script type="text/javascript" src="js/functions.js"></script>
+	<script type="text/javascript" src="js/anime.min.js"></script>
+	<script type="text/javascript" src="js/jquery.magnify.js"></script>
+</head>
+<div id="barba-wrapper">
+	<div class="barba-container">
+		<header class="header_top">
+			<nav class="nav_top">
+				<a href="index.html"><button class="nav_button--context nav_button--featured" data-button-type="home" ontouchstart=""><img src='assets/icons/home.svg'></button></a>
+				<button class="nav_button nav_button--standard quiz_open" data-button-type="quiz" ontouchstart=""><span>Quiz</span></button>
+				<div class="nav_segmented" data-button-type="navigation">
+					<a class="nav_link--back"><button class="nav_segmented_item"><span>Back</span></button></a>
+				</div>
+				<button class="nav_button nav_button--context" data-button-type="sound" ontouchstart=""><img src='assets/icons/volume.svg'><span>Sound</span></button>
+				
+			</nav>
+		</header>
+
+		<body onload="loadSound();">
+			<main class="main_content">
+				<div class="overlay"></div>
+				<section class="quiz_module">
+					<h2>Quiz<button class="nav_button nav_button--context quiz_close" ontouchstart=""><img src='assets/icons/crossRed.svg'><span>Clear</span></button></h2>
+					<article class="question" id="question_1">
+						<p><strong>Question 1.</strong>Light is a form of...?</p>
+						<label>
+							<input type="radio" name="question_1_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Energy
+						</label>
+						<label>
+							<input type="radio" name="question_1_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Force
+						</label>
+						<label>
+							<input type="radio" name="question_1_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Colour
+						</label>
+					</article>
+					<article class="question" id="question_2">
+						<p><strong>Question 2.</strong>The colour of light is dependent on the light's...</p>
+						<label>
+							<input type="radio" name="question_2_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Strength
+						</label>
+						<label>
+							<input type="radio" name="question_2_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Diameter
+						</label>
+						<label>
+							<input type="radio" name="question_2_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Wavelength
+						</label>
+					</article>
+					<article class="question" id="question_3">
+						<p><strong>Question 2.</strong>If you were painting, what form of color mixing would you be using?</p>
+						<label>
+							<input type="radio" name="question_3_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Subtractive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_3_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Additive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_3_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Attractive Colour Mixing
+						</label>
+					</article>
+					<article class="question" id="question_4">
+						<p><strong>Question 2.</strong>If you were mixing colours on a screen, this would be an example of...?</p>
+						<label>
+							<input type="radio" name="question_4_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Aggressive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_4_options" correct="true">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Additive Color Mixing
+						</label>
+						<label>
+							<input type="radio" name="question_4_options">
+							<span class="inner_check"></span><span class="outer_check"></span>
+							Supportive Color Mixing
+						</label>
+					</article>
+					<div class="feedback_container"></div>
+					<button class="nav_button nav_button--standard nav_button--validate" ontouchstart=""><span>Submit</span></button>
+				</section>
+				<section class="page device_module">
+					<h1>Screens of Today</h1>
+					<div class="article_content">
+						<article>
+							<h2>How is additive light used on our devices?</h2>
+							<p>Almost every digital device we use today uses combinations of color to create different levels of brightness and hue! From our phones to our televisions, pixels comprised of blue, red and green emitters give the illusion of a whole range of color.
+								<br><br>
+								<strong>Have a play around with mixing colour by pressing the plus button below!</strong></p>
+						</article>
+						<article class="device_drawer">
+							<div><img class="zoom" height="400px" width="auto" src="assets/devices/phone.png" data-magnify-src="assets/screens/phone-large.png">
+								<p><strong>iPhone X</strong>Pentile OLED Display</p>
+								<p>An organic light-emitting diode (OLED) works in the much the same way to an LED display, but an OLED display works without a backlight because it emits visible light. Thus, it can display deep black levels and can be thinner and lighter than a LCD display. In low ambient light conditions (such as a dark room), an OLED screen can achieve a higher contrast ratio than an LCD.</p>
+							</div>
+							<div><img class="zoom" height="400px" width="auto" src="assets/devices/watch.png" data-magnify-src="assets/screens/watch-large.png">
+								<p><strong>Apple Watch</strong>MicroLED Display</p>
+								<p>microLED, also known as micro-LED, mLED or µLED, is an emerging flat panel display technology. As the name implies, microLED displays consist of arrays of microscopic LEDs forming the individual pixel elements. When compared to the widespread LCD technology, microLED displays offer better contrast, response times, and energy efficiency.</p>
+							</div>
+							<div><img class="zoom" height="400px" width="auto" src="assets/devices/tv.png" data-magnify-src="assets/screens/tv-large.png">
+								<p><strong>TV Set</strong>LED Display</p>
+								<p>LED Displays use LEDS (light-emitting diodes) which emit light when activated. One of the most common display technologies on the market, LEDS are used in applications as diverse as aviation lighting, automotive headlamps, advertising, general lighting, traffic signals, camera flashes, lighted wallpaper and medical devices.</p>
+							</div>
+						</article>
+					</div>
+				</section>
+			</main>
+		</body>
+	</div>
+</div>
+
+</html>
