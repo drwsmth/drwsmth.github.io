@@ -75,11 +75,11 @@ Barba.Dispatcher.on("newPageReady", function(e) {
 		if ($(this).hasClass('muted')) {
 			console.log("Muted");
 			createjs.Sound.muted = true;
-			$('button.sound_settings img').attr("src", 'assets/icons/VolumeMute.svg');
+			$('button.sound_settings img').attr("src", 'assets/icons/volumeMute.svg');
 		} else {
 			console.log("Unmuted");
 			createjs.Sound.muted = false;
-			$('button.sound_settings img').attr("src", 'assets/icons/Volume.svg');
+			$('button.sound_settings img').attr("src", 'assets/icons/volume.svg');
 		}
 	});
 	// Setting different color schemes for specific pages. I decided to indicate the page type based from the URL but I'm sure there's much more elegant ways to do this! UPDATE: There is :)
