@@ -42,8 +42,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/devices\/phone.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -53,8 +53,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/devices\/tv.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -64,8 +64,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/devices\/watch.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -357,7 +357,7 @@
 		"oAP": "\/assets\/images\/color.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/color2.jpg": {
@@ -368,7 +368,7 @@
 		"oAP": "\/assets\/images\/color2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/color3.jpg": {
@@ -379,7 +379,7 @@
 		"oAP": "\/assets\/images\/color3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/sun.jpg": {
@@ -585,8 +585,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/MicroLED.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -596,8 +596,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/MicroLED@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -607,8 +607,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/Pentile.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -618,8 +618,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/Pentile@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -629,8 +629,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/PentileAlt.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -640,8 +640,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/PentileAlt@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -662,8 +662,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/tv-large.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -673,8 +673,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/TV.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -684,8 +684,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/TV@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -695,8 +695,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/screens\/watch-large.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -749,6 +749,16 @@
 		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
+	"\/css\/magnify-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/magnify-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/magnify.css": {
 		"aP": 1,
 		"bl": 0,
@@ -785,6 +795,116 @@
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/js\/anime.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/anime.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/anime.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/anime.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/barba.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/barba.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/barba.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/barba.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/functions-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/functions-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/functions.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/functions-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.magnify.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.magnify-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/quiz dev-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/quiz dev-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/quiz dev.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/quiz dev-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/soundjs.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/soundjs.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/soundjs.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/soundjs.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/normalize-min.css": {
 		"aP": 1,
@@ -849,6 +969,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/stylebasis.bak.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylebasis.bak-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/stylebasis.bak.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -896,7 +1026,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 562939107
+	"lastBuiltDate": 563206189
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

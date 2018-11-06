@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		localStorage.setItem("currentSoundClass", 'nav_button--context sound_settings');
 	} else {
 		var muteStatus = $('button.sound_settings').attr('class');
-		localStorage.setItem("currentSoundClass", muteStatus);
+		localStorage.setItem("currentSoundClass", muteStatus);aaddd
 	}
 });
 
